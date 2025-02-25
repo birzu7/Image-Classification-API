@@ -3,15 +3,10 @@
 A FastAPI-based cloud-ready microservice for image classification using a pre-trained ResNet model.
 
 Overview:
-
 This project provides an image classification API built with FastAPI and PyTorch. The API loads a pre-trained ResNet model, processes uploaded images, and returns class predictions.
-
 ✅ Machine Learning: Uses ResNet for image classification
-
 ✅ Cloud-Ready: Dockerized for deployment on AWS, GCP, or Azure
-
 ✅ FastAPI: High-performance backend for real-time inference
-
 ✅ Scalable Microservice: Designed for easy scaling and integration
 
 ## How to Run
